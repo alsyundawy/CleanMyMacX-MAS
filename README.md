@@ -30,6 +30,7 @@ Enjoy!
 ## TODO
 
 - Parse Objective-C metadata
+- Warn the user if the app has already been patched (optional)
 - Unlock missing features
 - Hide 'Unlock Full Version' button in menu
 - Add support for Apple Silicon

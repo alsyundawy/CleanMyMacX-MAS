@@ -2,7 +2,7 @@
 
 Unlock (almost) all CleanMyMac X's features for free!
 
-Updated to version 4.12.6 (App Store) - Intel Chip
+Updated to version 4.13.2 (App Store) - Intel Chip
 
 Apple Silicon is not supported.
 
